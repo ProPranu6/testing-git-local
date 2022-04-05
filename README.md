@@ -1,4 +1,4 @@
-#Key points of the github tutorial
+# Key points of the github tutorial
 
 Git is a local representation or version control of the projects
 Github is a global representation or version control of the projects
@@ -8,7 +8,8 @@ Git and Github have different tree representations which can be connected and up
 * Any new branches from Git when used through "push" command get updated on Github
 * Any new branches on Github when used through "pull" command get updated on Git
 
-#Note
+# Note
+
 * If any deleted branches exist on Github and the branches are not deleted on the Git then a pull request is not gonna delete the branches in Git to equate itself to Github
 * Similarly any deleted branches on the git when pushed dont delete the branches on Github
 * However the behaviour deleted files inplace of branches is not the same
