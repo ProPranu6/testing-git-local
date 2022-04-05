@@ -1,1 +1,2 @@
 currently I'm doing the initialisation and official add and commit
+Now i'm changing it
